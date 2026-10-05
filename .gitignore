@@ -1,0 +1,10 @@
+.lab/
+private-evidence/
+*.log
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+.DS_Store
